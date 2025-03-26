@@ -7,7 +7,7 @@ public class Woman : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Home Home!!!");
+        Debug.Log("Academy Home!!!");
     }
 
     // Update is called once per frame
